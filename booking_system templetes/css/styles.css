@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+.btn{
+  background-color: blueviolet;
+}
+.p{
+  color: blueviolet;
+}
+.form-bg{
+  background-color: whitesmoke;
+}
+#floatingInput{
+  height: 46px;
+}
